@@ -1,0 +1,313 @@
+{
+  "6ef13e42-ad89-4d42-9480-546e0c04a411": {
+    "1ac575aa-2092-45b3-832f-14b5d071174b": {
+      "1": "PAYE Payable",
+      "17": "PP001",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    },
+    "4e5ddb78-75c7-4b06-b639-9bcdb6f3195e": {
+      "1": "Advance Salary Repayments",
+      "17": "ASR001",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "9372b48b-af4b-4c03-a9bd-aedd56418e13": {
+      "1": "NSSF (15% Contributions) Payable",
+      "17": "NSSF001",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    },
+    "bf75f913-1206-423d-a4b8-a43b7b002477": {
+      "1": "Local Service Tax Payable",
+      "17": "LST001",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    }
+  },
+  "39dde4fc-7af8-44cc-8572-3b1ff4cfb918": {
+    "39dde4fc-7af8-44cc-8572-3b1ff4cfb918": {
+      "3": "UGX001",
+      "2": "Uganda Shillings",
+      "4": "Ugx"
+    }
+  },
+  "c2e88cf8-4d05-4bec-8c42-fdef424faf1a": {
+    "7a17b45e-38bf-4d9b-89e9-07bd4c45857b": {
+      "1": "Computers and Printers",
+      "17": "CP001",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "90d85a0a-0ae0-43b7-9c30-84194a48b25b": {
+      "1": "Motor Vehicles and Tractors",
+      "17": "MVT001",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "a99df3af-14ba-422e-9565-449122ee0bd6": {
+      "1": "Machinery and Equipment",
+      "17": "ME001",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "b45981ea-0706-4f3a-a343-7777421ad24f": {
+      "1": "Furniture and Fittings",
+      "17": "FF001",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "e46b1422-750b-410e-b3e0-01052b8d15cc": {
+      "1": "Buildings and Leases",
+      "17": "BL001",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "e81978e2-242a-491b-a674-91ddc9a5cee4": {
+      "1": "Land",
+      "17": "L001",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    }
+  },
+  "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+    "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+      "1": "dd-MM-yyyy",
+      "4": "HH:mm:ss",
+      "3": "CgEuEgEsGAM="
+    }
+  },
+  "6116531b-cb3d-4f85-b239-745972943a6b": {
+    "286c3baa-3fd6-41c3-8d5e-2b37f6701ad8": {
+      "2": "EUR",
+      "1": "Euros",
+      "3": "€"
+    },
+    "4bf4b8c4-672d-494d-97f3-a2627cf88d04": {
+      "2": "USD",
+      "1": "United States Dollars",
+      "3": "$"
+    },
+    "6646eb85-a261-40ac-9628-b2f94cb8e475": {
+      "2": "GBP001",
+      "1": "Great British Pounds",
+      "3": "£"
+    }
+  },
+  "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+    "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "73af4c68-c347-4088-8846-758f1e7bc5bb": {
+    "7d919569-f1f1-4f70-92a1-c7710dfee74d": {
+      "1": "NSSF (10% Employer's Contributions)",
+      "3": "bcceb59d-43de-4409-95bd-8780ffa74109",
+      "4": "9372b48b-af4b-4c03-a9bd-aedd56418e13",
+      "5": {}
+    }
+  },
+  "0444eb18-6fc5-4d1f-be8b-c114da01832c": {
+    "60e7bd9e-94d3-4f8b-997f-f01711b83a81": {
+      "1": "PAYE Payable",
+      "3": "1ac575aa-2092-45b3-832f-14b5d071174b",
+      "4": {}
+    },
+    "61cf1f3d-9fea-49f8-bd39-4f73c2baea9f": {
+      "1": "Salary Advance Repayments",
+      "3": "4e5ddb78-75c7-4b06-b639-9bcdb6f3195e",
+      "4": {}
+    },
+    "76ca146a-f4f5-474d-9b65-33775273a347": {
+      "1": "Local Service Tax Payable",
+      "3": "bf75f913-1206-423d-a4b8-a43b7b002477",
+      "4": {}
+    },
+    "cbbd67d5-acbd-4cdd-9aab-455e30123255": {
+      "1": "NSSF (5% Employee Contributions)",
+      "3": "9372b48b-af4b-4c03-a9bd-aedd56418e13",
+      "4": {}
+    }
+  },
+  "ab02f6ab-c91c-4fc2-b979-66a6682c200e": {
+    "001e20e4-68be-41bd-b041-144fa3f4b53f": {
+      "1": "Accommodation Allowance",
+      "3": "6b08c218-7a3e-4ce1-9f56-f04716dfba1e",
+      "4": {}
+    },
+    "498ebf36-5adc-40ff-99fa-0da96d4d2f68": {
+      "1": "Bonus Earnings",
+      "3": "6b08c218-7a3e-4ce1-9f56-f04716dfba1e",
+      "4": {}
+    },
+    "9b31def0-645e-450b-ae83-a32e9e599bc5": {
+      "1": "Commissions",
+      "3": "6b08c218-7a3e-4ce1-9f56-f04716dfba1e",
+      "4": {}
+    },
+    "a67318a6-e222-44d9-b543-dca7d524ed05": {
+      "1": "Transport Allowance",
+      "3": "6b08c218-7a3e-4ce1-9f56-f04716dfba1e",
+      "4": {}
+    },
+    "c74f7485-32c6-4e58-9734-d52f3fe01306": {
+      "1": "Basic Salary",
+      "3": "6b08c218-7a3e-4ce1-9f56-f04716dfba1e",
+      "4": {}
+    }
+  },
+  "26b9e4a5-ce10-4f30-94c7-23a1ca4428f9": {
+    "16bfa130-7da3-472a-8bcc-f20d1a623d36": {
+      "1": "Interest received",
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e"
+    },
+    "2060968a-e766-40e8-9706-4ddce7a403a0": {
+      "1": "Legal fees",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "3055812a-a2c5-4d60-aef9-f0d58bf3c12d": {
+      "1": "Accounting fees",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "416feb57-93a2-4859-90a2-3506ce23a4c6": {
+      "1": "Repairs and maintenance",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "45285fd3-ee52-429d-b2e5-dcd78f3b7648": {
+      "1": "Advertising and promotion",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "6505fa5f-2460-4b60-a35a-f1dcaa1bd635": {
+      "1": "Bank charges",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "6aca6273-271d-4d66-8038-5874e0360d48": {
+      "1": "Rent",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "6b08c218-7a3e-4ce1-9f56-f04716dfba1e": {
+      "1": "Wages and Salaries",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "70237b26-6119-443a-85cf-0b77fcb6018e": {
+      "1": "Electricity",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "8843cba1-52a4-47f3-8150-8a722ac348a2": {
+      "1": "Motor vehicle expenses",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "9a166368-018a-4be6-9877-5bd6448d385f": {
+      "1": "Computer equipment",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "9a55a0e7-cd91-4560-a291-8606944c041d": {
+      "1": "Donations",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "bcceb59d-43de-4409-95bd-8780ffa74109": {
+      "1": "NSSF 10% employer's contributions",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "c0a8f9df-900a-4237-b131-9c61c20e2578": {
+      "1": "Telephone",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "c647d0d2-9edd-40af-bd20-53921aaca9e3": {
+      "1": "Entertainment",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "d087203b-5966-4e72-898b-f823ced393e3": {
+      "1": "Sales",
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e"
+    },
+    "dbfa7fab-1aea-4972-a64e-c0355a779dda": {
+      "1": "Printing and stationery",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    }
+  },
+  "5770616c-0e01-46ca-a172-f7042275da6c": {
+    "95713fac-30d3-42e4-b536-dd7bc4f7a80e": {
+      "1": "Income",
+      "5": 1
+    },
+    "fd003045-876e-439e-b923-1904453f5c30": {
+      "1": "Expenses",
+      "6": 1,
+      "5": 2
+    }
+  },
+  "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+    "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "a9a71e47-82b3-49db-8aec-898adb460a80": {
+    "a9a71e47-82b3-49db-8aec-898adb460a80": {
+      "1": 312
+    }
+  },
+  "f361339b-932a-4436-b56e-a337c1587c72": {
+    "3d16b549-8da9-4a9e-a4c4-a602a0b81c5a": {
+      "1": "Drawings"
+    },
+    "7d7b169c-ddd5-42f8-837f-7f3742398494": {
+      "1": "Share of profit"
+    },
+    "d9f49290-2402-4af6-8abb-98dbc899296d": {
+      "1": "Funds contributed"
+    }
+  },
+  "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+    "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+      "2": true,
+      "44": true,
+      "45": true,
+      "35": true,
+      "43": true,
+      "9": true,
+      "14": true,
+      "4": true,
+      "3": true,
+      "5": true,
+      "15": true,
+      "7": true,
+      "6": true,
+      "20": true,
+      "11": true,
+      "33": true,
+      "21": true,
+      "18": true,
+      "19": true,
+      "12": true,
+      "41": true
+    }
+  },
+  "7f368d97-8b7f-4b39-b156-dc66afd9496a": {
+    "12d5a390-cd47-45be-96c7-4bb9d54b6121": {
+      "1": "Zero Rated",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "15": true,
+      "16": "Tax Credit Note"
+    },
+    "3b7429e6-c52a-453f-adc0-99d54c826218": {
+      "1": "Standard Rated",
+      "5": 2,
+      "4": 18.0,
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "15": true,
+      "16": "Tax Credit Note"
+    },
+    "c3d4f725-0207-4638-b8a2-3f668ca6a7d6": {
+      "1": "Exempted Sales",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "15": true,
+      "16": "Tax Credit Note",
+      "17": {}
+    }
+  }
+}
